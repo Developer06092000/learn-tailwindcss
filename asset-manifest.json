@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/learn-tailwindcss/static/css/main.76021342.css",
+    "main.js": "/learn-tailwindcss/static/js/main.7561a727.js",
+    "static/media/marvin-lewis-5ToFAve8U1o-unsplash-removebg-preview.png": "/learn-tailwindcss/static/media/marvin-lewis-5ToFAve8U1o-unsplash-removebg-preview.d05a63ca2e162c4d6cd4.png",
+    "static/media/depositphotos_63016959-stock-photo-man-working-on-a-computer.jpg": "/learn-tailwindcss/static/media/depositphotos_63016959-stock-photo-man-working-on-a-computer.20a2baa034c02e93a88b.jpg",
+    "static/media/instagram.png": "/learn-tailwindcss/static/media/instagram.0e5700925081213bfc1e.png",
+    "static/media/facebook.png": "/learn-tailwindcss/static/media/facebook.38a3e05cd7fa5b95ba3b.png",
+    "index.html": "/learn-tailwindcss/index.html",
+    "main.76021342.css.map": "/learn-tailwindcss/static/css/main.76021342.css.map",
+    "main.7561a727.js.map": "/learn-tailwindcss/static/js/main.7561a727.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76021342.css",
+    "static/js/main.7561a727.js"
+  ]
+}
